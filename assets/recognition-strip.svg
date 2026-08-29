@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Selected recognition from more than 30 awards</title>
+  <desc id="desc">Five selected national awards from 2025 and 2026, including wins at IoT Digination, Hackvidia, Samsung Solve for Tomorrow, ElevAIte, and UNITY.</desc>
+  <rect width="1200" height="300" rx="24" fill="#071F17"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+    <text x="54" y="72" fill="#F3FFF8" font-size="68" font-weight="760">30+</text>
+    <text x="54" y="105" fill="#78A991" font-size="18">competition awards</text>
+    <text x="54" y="130" fill="#78A991" font-size="18">and recognitions</text>
+  </g>
+  <path d="M250 150H1138" stroke="#2B805C" stroke-width="3"/>
+  <g fill="#071F17" stroke="#35D07F" stroke-width="3">
+    <circle cx="286" cy="150" r="12"/><circle cx="488" cy="150" r="12"/><circle cx="690" cy="150" r="12"/><circle cx="892" cy="150" r="12"/><circle cx="1094" cy="150" r="12"/>
+  </g>
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" text-anchor="middle">
+    <text x="286" y="111" fill="#A7F3D0" font-size="28" font-weight="740">1st</text><text x="286" y="190" fill="#F3FFF8" font-size="17" font-weight="650">IoT Digination</text><text x="286" y="216" fill="#78A991" font-size="15">2026</text>
+    <text x="488" y="111" fill="#A7F3D0" font-size="28" font-weight="740">3rd</text><text x="488" y="190" fill="#F3FFF8" font-size="17" font-weight="650">Hackvidia</text><text x="488" y="216" fill="#78A991" font-size="15">Arkavidia · 2026</text>
+    <text x="690" y="111" fill="#A7F3D0" font-size="28" font-weight="740">2nd</text><text x="690" y="190" fill="#F3FFF8" font-size="17" font-weight="650">Samsung SFT</text><text x="690" y="216" fill="#78A991" font-size="15">1,000+ · 2025</text>
+    <text x="892" y="111" fill="#A7F3D0" font-size="28" font-weight="740">Top 3</text><text x="892" y="190" fill="#F3FFF8" font-size="17" font-weight="650">ElevAIte</text><text x="892" y="216" fill="#78A991" font-size="15">Microsoft · 2025</text>
+    <text x="1094" y="111" fill="#A7F3D0" font-size="28" font-weight="740">2nd</text><text x="1094" y="190" fill="#F3FFF8" font-size="17" font-weight="650">UNITY</text><text x="1094" y="216" fill="#78A991" font-size="15">367 participants</text>
+  </g>
+  <text x="250" y="266" fill="#78A991" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">SELECTED NATIONAL HIGHLIGHTS · PRODUCT · AI · SOFTWARE · IOT</text>
+</svg>
