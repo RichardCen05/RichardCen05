@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="980" viewBox="0 0 720 980" role="img" aria-labelledby="title desc">
+  <title id="title">Three AI products led by Richard Cen</title>
+  <desc id="desc">Mobile product board for Kulkita, Sentra, and Fiona, highlighting role and pilot evidence.</desc>
+  <rect width="720" height="980" rx="28" fill="#071F17"/>
+  <text x="44" y="64" fill="#F3FFF8" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="38" font-weight="720">Products from signal to pilot</text>
+  <path d="M44 100H676M44 416H676M44 680H676" stroke="#2B805C" stroke-width="3"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+    <text x="44" y="154" fill="#35D07F" font-size="38" font-weight="720">Kulkita</text>
+    <text x="44" y="192" fill="#78A991" font-size="23">PREDICTIVE FRESH-GOODS OPERATIONS</text>
+    <text x="44" y="286" fill="#F3FFF8" font-size="82" font-weight="760">35%</text>
+    <text x="228" y="255" fill="#C9E8D8" font-size="29">less food waste</text>
+    <text x="228" y="290" fill="#C9E8D8" font-size="29">and related loss</text>
+    <text x="44" y="340" fill="#78A991" font-size="24">Pilot users · UB Coffee · first two weeks</text>
+    <text x="44" y="382" fill="#A7F3D0" font-size="25">Founder / product lead · team of 4</text>
+
+    <text x="44" y="476" fill="#35D07F" font-size="38" font-weight="720">Sentra</text>
+    <text x="44" y="514" fill="#78A991" font-size="23">ACCESSIBLE FINANCIAL INDEPENDENCE</text>
+    <path d="M44 588H70L86 548L111 625L137 565L166 608L191 579L218 588H275" fill="none" stroke="#A7F3D0" stroke-width="5" stroke-linecap="round"/>
+    <text x="324" y="578" fill="#F3FFF8" font-size="54" font-weight="740">7</text>
+    <text x="371" y="577" fill="#C9E8D8" font-size="27">stakeholder signals</text>
+    <text x="324" y="622" fill="#A7F3D0" font-size="24">2nd · UNITY · 367 participants</text>
+
+    <text x="44" y="740" fill="#35D07F" font-size="38" font-weight="720">Fiona</text>
+    <text x="44" y="778" fill="#78A991" font-size="23">AI-ASSISTED ACCOUNTING CYCLE</text>
+    <g transform="translate(44 826)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+      <rect width="140" height="62" rx="12" fill="#0A2A1E" stroke="#2B805C" stroke-width="2"/>
+      <rect x="204" width="140" height="62" rx="12" fill="#0A2A1E" stroke="#2B805C" stroke-width="2"/>
+      <rect x="408" width="188" height="62" rx="12" fill="#0A2A1E" stroke="#A7F3D0" stroke-width="2"/>
+      <path d="M140 31H204M344 31H408" stroke="#35D07F" stroke-width="4"/>
+      <text x="70" y="40" fill="#C9E8D8" font-size="20" text-anchor="middle">RECEIPT</text>
+      <text x="274" y="40" fill="#C9E8D8" font-size="20" text-anchor="middle">JOURNAL</text>
+      <text x="502" y="40" fill="#F3FFF8" font-size="20" text-anchor="middle">STATEMENT</text>
+    </g>
+    <text x="44" y="936" fill="#A7F3D0" font-size="24">OpenRouter + GPT · client pilot</text>
+  </g>
+</svg>
