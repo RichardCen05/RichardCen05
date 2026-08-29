@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Richard's AI product tool constellation</title>
+  <desc id="desc">Moving once into place, the logo constellation groups AI, build, design, product, automation, and analytics tools.</desc>
+  <defs>
+    <style>
+      .track-a{animation:settle-left 3.4s cubic-bezier(.16,1,.3,1) both}.track-b{animation:settle-right 3.7s .18s cubic-bezier(.16,1,.3,1) both}.track-c{animation:settle-left 4s .36s cubic-bezier(.16,1,.3,1) both}
+      @keyframes settle-left{from{transform:translateX(-72px);opacity:.18}to{transform:translateX(0);opacity:1}}@keyframes settle-right{from{transform:translateX(72px);opacity:.18}to{transform:translateX(0);opacity:1}}
+      @media (prefers-reduced-motion:reduce){.track-a,.track-b,.track-c{animation:none}#stack-signal{display:none}}
+    </style>
+    <symbol id="gemini" viewBox="0 0 24 24"><path fill="#8E75B2" d="M11.04 19.32Q12 21.51 12 24q0-2.49.93-4.68.96-2.19 2.58-3.81t3.81-2.55Q21.51 12 24 12q-2.49 0-4.68-.93a12.3 12.3 0 0 1-3.81-2.58 12.3 12.3 0 0 1-2.58-3.81Q12 2.49 12 0q0 2.49-.96 4.68-.93 2.19-2.55 3.81a12.3 12.3 0 0 1-3.81 2.58Q2.49 12 0 12q2.49 0 4.68.96 2.19.93 3.81 2.55t2.55 3.81"/></symbol>
+    <symbol id="claude" viewBox="0 0 24 24"><g fill="none" stroke="#D97757" stroke-width="2.4" stroke-linecap="round"><path d="M12 2v5M12 17v5M2 12h5M17 12h5M4.9 4.9l3.6 3.6M15.5 15.5l3.6 3.6M19.1 4.9l-3.6 3.6M8.5 15.5l-3.6 3.6"/><circle cx="12" cy="12" r="4"/></g></symbol>
+    <symbol id="codex" viewBox="0 0 24 24"><rect x="2" y="3" width="20" height="18" rx="4" fill="none" stroke="#F3FFF8" stroke-width="2"/><path d="M7 9l3 3-3 3M13 16h5" fill="none" stroke="#35D07F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="python" viewBox="0 0 24 24"><path fill="#3776AB" d="M14.25.18c3.17.56 3.57 1.84 3.57 3.15V8.5c0 1.93-1.6 3.13-3.35 3.13H8.77c-2.2 0-3.84 1.89-3.84 3.77v2.98H3.17C.9 18.38 0 16.45 0 12c0-4.27 1.1-5.89 3.17-5.89h8.16V5.28H6.18V3.2C6.18 1.16 7.63.35 11.18.1c1.03-.08 2.1-.03 3.07.08ZM8.69 2.16a1.05 1.05 0 1 0 0 2.1 1.05 1.05 0 0 0 0-2.1"/><path fill="#FFD43B" d="M9.75 23.82c-3.17-.56-3.57-1.84-3.57-3.15V15.5c0-1.93 1.6-3.13 3.35-3.13h5.7c2.2 0 3.84-1.89 3.84-3.77V5.62h1.76C23.1 5.62 24 7.55 24 12c0 4.27-1.1 5.89-3.17 5.89h-8.16v.83h5.15v2.08c0 2.04-1.45 2.85-5 3.1-1.03.08-2.1.03-3.07-.08Zm5.56-2a1.05 1.05 0 1 0 0-2.1 1.05 1.05 0 0 0 0 2.1"/></symbol>
+    <symbol id="sklearn" viewBox="0 0 24 24"><ellipse cx="14" cy="10" rx="8" ry="6" fill="#F7931E" transform="rotate(-24 14 10)"/><ellipse cx="7" cy="16" rx="5" ry="3.7" fill="#29ABE2" transform="rotate(35 7 16)"/><text x="13.7" y="12" fill="#071F17" font-family="sans-serif" font-size="4.2" font-weight="700" text-anchor="middle">scikit</text></symbol>
+    <symbol id="swift" viewBox="0 0 24 24"><path fill="#F05138" d="M3 4c5 5 8 7 12 9-3-4-5-7-6-10 4 5 8 8 10 9 2-4 0-7-1-9 5 3 6 9 3 14 2 3 1 5 .3 4-1.4-2.6-4-1.8-5.5-.8C11 23 5.5 19.5 3 15c3.6 2.7 7.5 3.3 10.3 1.5C9 13.5 5.3 8.8 3 4Z"/></symbol>
+    <symbol id="figma" viewBox="0 0 24 24"><rect x="4" y="1" width="8" height="8" rx="4" fill="#F24E1E"/><rect x="12" y="1" width="8" height="8" rx="4" fill="#FF7262"/><rect x="4" y="8" width="8" height="8" rx="4" fill="#A259FF"/><circle cx="16" cy="12" r="4" fill="#1ABCFE"/><rect x="4" y="15" width="8" height="8" rx="4" fill="#0ACF83"/></symbol>
+    <symbol id="jira" viewBox="0 0 24 24"><path fill="#2684FF" d="M11.57 11.51H0a5.22 5.22 0 0 0 5.23 5.22h2.13v2.06A5.22 5.22 0 0 0 12.58 24V12.52a1 1 0 0 0-1.01-1.01Zm5.72-5.75H5.74a5.22 5.22 0 0 0 5.21 5.21h2.13v2.06a5.22 5.22 0 0 0 5.22 5.21V6.76a1 1 0 0 0-1.01-1ZM23.01 0H11.46a5.22 5.22 0 0 0 5.21 5.22h2.13v2.05A5.22 5.22 0 0 0 24 12.48V1a1 1 0 0 0-.99-1Z"/></symbol>
+    <symbol id="taiga" viewBox="0 0 24 24"><g fill="#6ED0B5"><circle cx="12" cy="5" r="4"/><circle cx="18" cy="9" r="4"/><circle cx="16" cy="17" r="4"/><circle cx="8" cy="17" r="4"/><circle cx="6" cy="9" r="4"/></g><circle cx="12" cy="12" r="3" fill="#071F17"/></symbol>
+    <symbol id="n8n" viewBox="0 0 24 24"><g fill="none" stroke="#EA4B71" stroke-width="1.8"><path d="M3 12h6c3 0 3-4 6-4h6M9 12c3 0 3 4 6 4h4"/><circle cx="3" cy="12" r="2"/><circle cx="9" cy="12" r="2"/><circle cx="21" cy="8" r="2"/><circle cx="19" cy="16" r="2"/></g></symbol>
+    <symbol id="zapier" viewBox="0 0 24 24"><g stroke="#FF4F00" stroke-width="3" stroke-linecap="round"><path d="M12 2v20M2 12h20M5 5l14 14M19 5 5 19"/></g><circle cx="12" cy="12" r="3" fill="#071F17"/></symbol>
+    <symbol id="analytics" viewBox="0 0 24 24"><path fill="#E37400" d="M19.9 0A3 3 0 0 0 17 3.1v17.8a3 3 0 1 0 6 0V3A3 3 0 0 0 19.9 0ZM12 9a3 3 0 0 0-3 3.2V21a3 3 0 0 0 6 0v-9A3 3 0 0 0 12 9ZM4 18a3 3 0 1 0 0 6 3 3 0 0 0 0-6Z"/></symbol>
+  </defs>
+  <rect width="1200" height="430" rx="24" fill="#071F17"/>
+  <text x="54" y="58" fill="#F3FFF8" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="34" font-weight="720">Tools around the product decision</text>
+  <text x="54" y="88" fill="#78A991" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18">AI for synthesis · code for feasibility · product systems for delivery</text>
+  <path d="M160 130V370" stroke="#2B805C" stroke-width="3"/>
+  <circle id="stack-signal" cx="160" cy="130" r="7" fill="#F3FFF8" stroke="#35D07F" stroke-width="4"><animateMotion dur="4.5s" repeatCount="1" fill="freeze" path="M0 0V240"/></circle>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#78A991"><text x="54" y="162">THINK</text><text x="54" y="273">BUILD</text><text x="54" y="384">SHIP</text></g>
+  <g class="track-a" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" fill="#C9E8D8">
+    <use href="#gemini" x="220" y="126" width="42" height="42"/><text x="272" y="153">Gemini</text>
+    <use href="#claude" x="446" y="126" width="42" height="42"/><text x="498" y="153">Claude</text>
+    <use href="#codex" x="672" y="126" width="42" height="42"/><text x="724" y="153">Codex</text>
+  </g>
+  <g class="track-b" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" fill="#C9E8D8">
+    <use href="#python" x="220" y="237" width="42" height="42"/><text x="272" y="264">Python</text>
+    <use href="#sklearn" x="446" y="237" width="42" height="42"/><text x="498" y="264">scikit-learn</text>
+    <use href="#swift" x="730" y="237" width="42" height="42"/><text x="782" y="264">Swift</text>
+  </g>
+  <g class="track-c" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="16" fill="#C9E8D8">
+    <use href="#figma" x="194" y="345" width="38" height="38"/><text x="240" y="370">Figma</text>
+    <use href="#jira" x="344" y="345" width="38" height="38"/><text x="390" y="370">Jira</text>
+    <use href="#taiga" x="470" y="345" width="38" height="38"/><text x="516" y="370">Taiga</text>
+    <use href="#n8n" x="610" y="345" width="38" height="38"/><text x="656" y="370">n8n</text>
+    <use href="#zapier" x="730" y="345" width="38" height="38"/><text x="776" y="370">Zapier</text>
+    <use href="#analytics" x="890" y="345" width="38" height="38"/><text x="936" y="370">Analytics</text>
+  </g>
+</svg>
