@@ -8,24 +8,27 @@ FINISH: unreviewed and undocumented is unfinished; this build ends with the fini
 -->
 
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Richard Cen — AI Product Manager. From discovery to measurable pilot." />
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg" />
+    <img src="./assets/hero.svg" width="100%" alt="Richard Cen — AI Product Manager, open to opportunities across Indonesia, Singapore, and global remote teams." />
+  </picture>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/richard05/"><img src="https://img.shields.io/badge/LinkedIn-Connect-166534?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect with Richard on LinkedIn" /></a>
   <a href="mailto:richardcen05@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_talk-0E3B2A?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Richard" /></a>
-  <img src="https://img.shields.io/badge/Open_to_work-Indonesia_·_Singapore_·_Remote-35D07F?style=for-the-badge" alt="Open to AI Product Manager roles in Indonesia, Singapore, and globally remote" />
 </p>
 
 I turn complex, manual workflows into AI products that teams can test, measure, and trust. My work sits between user discovery, product strategy, technical PRDs, and cross-functional delivery—close enough to the system to make sound product decisions, and close enough to users to know whether those decisions matter.
 
-Currently, I am building as an **iOS Developer at Apple Developer Academy** while completing my **Informatics Engineering degree at Universitas Brawijaya** (expected 2027). I am open to **AI Product Manager opportunities across Indonesia, Singapore, and global remote teams**.
+I currently build as an **iOS Developer in the Apple Developer Academy program**, strengthening hands-on engineering execution while completing my **Informatics Engineering degree at Universitas Brawijaya** (expected 2027). I am open to **AI Product Manager opportunities across Indonesia, Singapore, and global remote teams**.
 
 ## Product evidence
 
-| 35% | IDR 26M | 30+ | 60% |
-|:---:|:---:|:---:|:---:|
-| less food waste and related loss in Kulkita's first two pilot weeks | non-dilutive funding secured for Kulkita | national product, technology, and innovation awards | faster internal information retrieval in Pingtar's AI pilot |
+- **35% less food waste and related loss** — reported during Kulkita's first two pilot weeks at UB Coffee.
+- **IDR 26 million in non-dilutive funding** — secured for Kulkita through competition-backed support.
+- **30+ competition awards and recognitions** — five selected national highlights are listed below.
+- **60% faster internal information retrieval** — measured in Pingtar's internal AI pilot evaluation.
 
 ## What I have built
 
@@ -35,7 +38,7 @@ Currently, I am building as an **iOS Developer at Apple Developer Academy** whil
 
 **My product work.** I founded Kulkita and led four engineers from field discovery to a market-ready MVP. I owned the roadmap, PRD, AI system direction, product flows, pilot execution, stakeholder management, and go-to-market work. The system combines FIFO operations with predictive freshness tracking so kitchen teams can act before spoilage becomes loss.
 
-**Evidence.** A pilot at UB Coffee reported a **35% reduction in food waste and related financial loss within its first two weeks**. The product also secured **IDR 26 million in non-dilutive funding**.
+**Evidence.** UB Coffee reported a **35% reduction in food waste and related financial loss during the first two weeks of its Kulkita pilot**. The product also secured **IDR 26 million in non-dilutive funding**.
 
 > **What it proves:** 0→1 product leadership, AI-enabled operations, cross-functional execution, and pilot ownership.
 
@@ -59,38 +62,42 @@ Currently, I am building as an **iOS Developer at Apple Developer Academy** whil
 
 > **What it proves:** client discovery, technical requirements translation, AI workflow design, and human-in-the-loop product judgment. Client implementation details are private by design.
 
-<p align="center">
-  <img src="./assets/product-loop.svg" width="100%" alt="Richard's AI product operating loop: user signal, product decision, system brief, pilot evidence, and learning loop." />
-</p>
-
 ## Experience
 
-| Role | Scope | Selected evidence |
-|---|---|---|
-| **iOS Developer · Apple Developer Academy**<br/>Present | Building product and engineering depth through end-to-end iOS development. | Current hands-on product-building environment. |
-| **Founder & CEO · Kulkita**<br/>Sep 2025 – Jul 2026 | Product vision, team leadership, AI system direction, pilot, GTM, and operations. | 35% pilot reduction in food waste and related loss; IDR 26M funding. |
-| **Product Manager · PT Ekanusa Solaris Digital**<br/>Aug 2025 – Jul 2026 | Key Account workflows, internal operations, dashboards, automation, RCA, and engineer marketplace systems. | 40% fewer missed client responses; project handover time reduced by half. |
-| **AI Product Manager Intern · Pingtar**<br/>Aug 2025 – Dec 2025 | AI-tool benchmarking, internal pilots, knowledge retrieval, and prompt strategy. | 25% ops-support time saved; 60% faster information retrieval; 90%+ response accuracy in pilot. |
+**iOS Developer · Apple Developer Academy program — Present**  
+Building engineering depth through end-to-end iOS product development while maintaining an AI Product Manager focus.
+
+**Founder & CEO · Kulkita — Sep 2025–Jul 2026 · Self-employed**  
+Owned product vision, team leadership, AI system direction, pilot, go-to-market, and operations. UB Coffee's pilot reported 35% less food waste and related loss; Kulkita secured IDR 26M in non-dilutive funding.
+
+**Product Manager · PT Ekanusa Solaris Digital — Aug 2025–Jul 2026 · Part-time, remote**  
+Improved Key Account workflows, dashboards, automation, RCA, and engineer marketplace systems—contributing to 40% fewer missed client responses and halving project handover time.
+
+**AI Product Manager Intern · Pingtar — Aug–Dec 2025 · Remote internship**  
+Benchmarked AI tools and shipped internal pilots for knowledge retrieval and ops support. The internal evaluation recorded 25% time savings, 60% faster retrieval, and 90%+ response accuracy.
 
 ## How I work
 
-- **Discover:** user interviews, workflow mapping, problem framing, and competitive benchmarking.
-- **Decide:** product strategy, prioritization, roadmaps, MVP boundaries, and success metrics.
-- **Translate:** PRDs, user flows, acceptance logic, and AI behavior that engineers can implement.
-- **Deliver:** Scrum collaboration, Jira and Taiga execution, stakeholder alignment, and pilot rollout.
-- **Evaluate:** product analytics, qualitative feedback, model-output validation, and iteration based on evidence.
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/product-loop-mobile.svg" />
+    <img src="./assets/product-loop.svg" width="100%" alt="Richard's AI product operating loop: user signal, product decision, system brief, pilot evidence, and learning." />
+  </picture>
+</p>
+
+In practice, that means interviewing users, setting MVP boundaries and success metrics, translating decisions into implementable PRDs and AI behavior, then validating both model output and workflow adoption during a pilot.
 
 ## AI and product toolkit
 
-| Area | Hands-on tools and practices |
-|---|---|
-| **Product** | Product discovery, product strategy, PRDs, roadmaps, Scrum, Jira, Taiga |
-| **AI-assisted product work** | Gemini, Claude, Codex, OpenRouter, GPT; research synthesis, specifications, prototyping, and workflow design |
-| **Data** | Python, scikit-learn, data analysis, and applied data-science workflows |
-| **Design & analytics** | Figma and Google Analytics |
-| **Working knowledge** | n8n and Zapier for no-code workflow automation |
+- **Product:** discovery, strategy, PRDs, roadmaps, Scrum, Jira, and Taiga.
+- **AI-assisted product work:** Gemini, Claude, Codex, OpenRouter, and GPT for research synthesis, specifications, prototyping, and workflow design.
+- **Data:** Python, scikit-learn, data analysis, and applied data-science workflows.
+- **Design and analytics:** Figma and Google Analytics.
+- **Working knowledge:** n8n and Zapier for no-code workflow automation.
 
 ## Selected recognition
+
+Five highlights selected from **30+ competition awards and recognitions**:
 
 - **1st Winner — IoT Digination Fest Ideathon**, Directorate of Communication and Informatics × OISAA, 2026.
 - **3rd Winner — Hackvidia, Arkavidia 10.0**, Institut Teknologi Bandung, 2026.
@@ -98,10 +105,10 @@ Currently, I am building as an **iOS Developer at Apple Developer Academy** whil
 - **Top 3 Best AI Ideation — ElevAIte**, Microsoft × Pikiran Terbaik Negeri, 2025 — Kulkita, selected from 183+ participants.
 - **2nd Winner — UNITY Software Development Competition**, Universitas Negeri Yogyakarta, 2025 — Sentra, from 367 participants across 39 universities.
 
-## Building in public
+## GitHub activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RichardCen05&amp;theme=github_dark" width="100%" alt="Richard's GitHub contribution summary" />
+  <a href="https://github.com/RichardCen05"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RichardCen05&amp;theme=github_dark" width="100%" alt="View RichardCen05's GitHub activity and public repositories" /></a>
 </p>
 
 I am especially interested in AI products where accuracy, accessibility, and operational adoption matter after the demo—not just during it.
@@ -109,6 +116,4 @@ I am especially interested in AI products where accuracy, accessibility, and ope
 <p align="center">
   <strong>Building an AI product, improving an operational workflow, or hiring an AI PM?</strong><br/><br/>
   <a href="https://www.linkedin.com/in/richard05/">Let's connect on LinkedIn</a> · <a href="mailto:richardcen05@gmail.com">richardcen05@gmail.com</a>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=RichardCen05&amp;style=flat-square&amp;color=166534&amp;label=PROFILE+VIEWS" alt="Profile view counter" />
 </p>
