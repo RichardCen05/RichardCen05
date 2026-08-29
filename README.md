@@ -101,7 +101,7 @@ Currently, I am building as an **iOS Developer at Apple Developer Academy** whil
 ## Building in public
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RichardCen05&amp;bg_color=071F17&amp;color=A7F3D0&amp;line=35D07F&amp;point=F3FFF8&amp;area=true&amp;hide_border=true&amp;custom_title=Richard's%20GitHub%20activity" width="100%" alt="Richard's recent GitHub contribution activity" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RichardCen05&amp;theme=github_dark" width="100%" alt="Richard's GitHub contribution summary" />
 </p>
 
 I am especially interested in AI products where accuracy, accessibility, and operational adoption matter after the demo—not just during it.
