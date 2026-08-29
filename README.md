@@ -64,16 +64,16 @@ I currently build as an **iOS Developer in the Apple Developer Academy program**
 
 ## Experience
 
-**iOS Developer · Apple Developer Academy program — Present**  
+**iOS Developer · Apple Developer Academy program — Present**<br/>
 Building engineering depth through end-to-end iOS product development while maintaining an AI Product Manager focus.
 
-**Founder & CEO · Kulkita — Sep 2025–Jul 2026 · Self-employed**  
+**Founder & CEO · Kulkita — Sep 2025–Jul 2026 · Self-employed**<br/>
 Owned product vision, team leadership, AI system direction, pilot, go-to-market, and operations. Pilot users at UB Coffee reported 35% less food waste and related loss; Kulkita secured IDR 26M in non-dilutive funding.
 
-**Product Manager · PT Ekanusa Solaris Digital — Aug 2025–Jul 2026 · Part-time, remote**  
+**Product Manager · PT Ekanusa Solaris Digital — Aug 2025–Jul 2026 · Part-time, remote**<br/>
 Improved Key Account workflows, dashboards, automation, RCA, and engineer marketplace systems—contributing to 40% fewer missed client responses and halving project handover time.
 
-**AI Product Manager Intern · Pingtar — Aug–Dec 2025 · Remote internship**  
+**AI Product Manager Intern · Pingtar — Aug–Dec 2025 · Remote internship**<br/>
 Benchmarked AI tools and shipped internal pilots for knowledge retrieval and ops support. The internal evaluation recorded 25% time savings, 60% faster retrieval, and 90%+ response accuracy.
 
 ## How I work
