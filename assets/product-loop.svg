@@ -4,7 +4,7 @@
   <rect width="1200" height="230" rx="20" fill="#071F17"/>
   <text x="54" y="48" fill="#F3FFF8" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="25" font-weight="700">My AI product operating loop</text>
   <text x="54" y="72" fill="#78A991" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14">Every tool is accountable to a decision, and every decision is accountable to evidence.</text>
-  <path d="M96 132H1096" fill="none" stroke="#1F5A41" stroke-width="2"/>
+  <path d="M96 132H1096" fill="none" stroke="#2B805C" stroke-width="2"/>
   <path d="M1096 132L1084 125V139Z" fill="#35D07F"/>
   <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
     <g transform="translate(96 132)">
