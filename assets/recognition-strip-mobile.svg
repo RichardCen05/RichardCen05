@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="620" viewBox="0 0 720 620" role="img" aria-labelledby="title desc">
+  <title id="title">Selected recognition from more than 30 awards</title>
+  <desc id="desc">Five selected national awards from 2025 and 2026.</desc>
+  <rect width="720" height="620" rx="28" fill="#071F17"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+    <text x="44" y="82" fill="#F3FFF8" font-size="72" font-weight="760">30+</text>
+    <text x="194" y="58" fill="#78A991" font-size="25">competition awards</text>
+    <text x="194" y="91" fill="#78A991" font-size="25">and recognitions</text>
+  </g>
+  <path d="M88 158V548" stroke="#2B805C" stroke-width="4"/>
+  <g fill="#071F17" stroke="#35D07F" stroke-width="4"><circle cx="88" cy="166" r="12"/><circle cx="88" cy="256" r="12"/><circle cx="88" cy="346" r="12"/><circle cx="88" cy="436" r="12"/><circle cx="88" cy="526" r="12"/></g>
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+    <text x="134" y="176" fill="#A7F3D0" font-size="32" font-weight="740">1st</text><text x="220" y="176" fill="#F3FFF8" font-size="27">IoT Digination · 2026</text>
+    <text x="134" y="266" fill="#A7F3D0" font-size="32" font-weight="740">3rd</text><text x="220" y="266" fill="#F3FFF8" font-size="27">Hackvidia · 2026</text>
+    <text x="134" y="356" fill="#A7F3D0" font-size="32" font-weight="740">2nd</text><text x="220" y="344" fill="#F3FFF8" font-size="27">Samsung SFT · 2025</text><text x="220" y="374" fill="#78A991" font-size="22">1,000+ participants</text>
+    <text x="134" y="446" fill="#A7F3D0" font-size="32" font-weight="740">Top 3</text><text x="250" y="434" fill="#F3FFF8" font-size="27">ElevAIte · Microsoft</text><text x="250" y="464" fill="#78A991" font-size="22">Kulkita · 2025</text>
+    <text x="134" y="536" fill="#A7F3D0" font-size="32" font-weight="740">2nd</text><text x="220" y="524" fill="#F3FFF8" font-size="27">UNITY · Sentra</text><text x="220" y="554" fill="#78A991" font-size="22">367 participants</text>
+  </g>
+  <text x="44" y="594" fill="#78A991" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20">SELECTED NATIONAL HIGHLIGHTS</text>
+</svg>
