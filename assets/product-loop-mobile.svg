@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="720" viewBox="0 0 720 720" role="img" aria-labelledby="title desc">
+  <title id="title">Richard's AI product operating loop</title>
+  <desc id="desc">A vertical five-stage loop: user signal, product decision, system brief, pilot evidence, and learning.</desc>
+  <rect width="720" height="720" rx="28" fill="#071F17"/>
+  <text x="44" y="66" fill="#F3FFF8" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="38" font-weight="720">My AI product operating loop</text>
+  <text x="44" y="104" fill="#78A991" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24">Every decision stays accountable to evidence.</text>
+  <path d="M92 170V626" fill="none" stroke="#2B805C" stroke-width="5"/>
+  <path d="M92 626L82 608H102Z" fill="#35D07F"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+    <g transform="translate(92 176)"><circle r="18" fill="#0E3B2A" stroke="#35D07F" stroke-width="4"/><text x="54" y="-2" fill="#F3FFF8" font-size="31" font-weight="680">User signal</text><text x="54" y="29" fill="#78A991" font-size="24">interviews · workflow</text></g>
+    <g transform="translate(92 286)"><circle r="18" fill="#0E3B2A" stroke="#35D07F" stroke-width="4"/><text x="54" y="-2" fill="#F3FFF8" font-size="31" font-weight="680">Product decision</text><text x="54" y="29" fill="#78A991" font-size="24">priority · trade-off</text></g>
+    <g transform="translate(92 396)"><circle r="18" fill="#0E3B2A" stroke="#35D07F" stroke-width="4"/><text x="54" y="-2" fill="#F3FFF8" font-size="31" font-weight="680">System brief</text><text x="54" y="29" fill="#78A991" font-size="24">PRD · AI boundary</text></g>
+    <g transform="translate(92 506)"><circle r="18" fill="#0E3B2A" stroke="#35D07F" stroke-width="4"/><text x="54" y="-2" fill="#F3FFF8" font-size="31" font-weight="680">Pilot evidence</text><text x="54" y="29" fill="#78A991" font-size="24">behavior · outcome</text></g>
+    <g transform="translate(92 616)"><circle r="18" fill="#123F2D" stroke="#A7F3D0" stroke-width="4"/><text x="54" y="-2" fill="#F3FFF8" font-size="31" font-weight="680">Learning loop</text><text x="54" y="29" fill="#78A991" font-size="24">iterate · scale</text></g>
+  </g>
+</svg>
