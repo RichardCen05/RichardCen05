@@ -48,18 +48,18 @@ components:
     rounded: "{rounded.hero-mobile}"
     width: "720px"
     height: "620px"
-  product-loop-desktop:
+  case-board-desktop:
     backgroundColor: "{colors.forest-canvas}"
     textColor: "{colors.off-white}"
-    rounded: "{rounded.loop-desktop}"
+    rounded: "{rounded.hero-desktop}"
     width: "1200px"
-    height: "230px"
-  product-loop-mobile:
+    height: "520px"
+  case-board-mobile:
     backgroundColor: "{colors.forest-canvas}"
     textColor: "{colors.off-white}"
     rounded: "{rounded.loop-mobile}"
     width: "720px"
-    height: "720px"
+    height: "980px"
 ---
 
 # Design System: Richard Cen GitHub Profile
@@ -76,9 +76,9 @@ The profile is an evidence trail from messy user workflow to measurable AI pilot
 
 1. Responsive hero: name, AI Product Manager position, availability, one pilot result, and the discovery-to-pilot route.
 2. LinkedIn and email actions, followed by a short first-person positioning statement.
-3. Four quantified evidence points.
-4. Three product briefs—Kulkita, Sentra, and Fiona—each organized as problem, product work, evidence, and what it proves.
-5. Experience, the product operating loop, toolkit, selected recognition, GitHub activity, and a direct contact close.
+3. One asymmetric visual product board for Kulkita, Sentra, and Fiona, followed by three concise evidence lines.
+4. Three selected role summaries, an animated tool constellation, and a visual recognition strip.
+5. GitHub activity and one direct contact close.
 
 ## Colors
 
@@ -100,7 +100,7 @@ The palette is dark, low-glare forest green. Emerald and mint are signals, not g
 
 SVG assets use the native interface sans stack for names, headings, evidence, and prose; the operational mono stack is reserved for system labels, stage names, locations, and compact evidence metadata. The Markdown body inherits GitHub's native typography, and no web font is loaded.
 
-The desktop hero uses a 66px/750 name, 27px/650 role, 20px positioning line, and 14–18px operational labels. The mobile hero increases key text for the 720px artboard: 68px/750 name, 38px/680 role, 30px positioning line, and 22–25px labels. Product-loop type ranges from 15–25px on desktop and 24–38px on mobile.
+The desktop hero uses a 66px/750 name, 27px/650 role, 20px positioning line, and 14–18px operational labels. The mobile hero increases key text for the 720px artboard: 68px/750 name, 38px/680 role, 30px positioning line, and 22–25px labels. Supporting visual headings use 34px desktop and 38px mobile; evidence display figures reach 78–82px.
 
 **The Two-Voice Rule.** Use sans type for the human narrative and mono type for product-system metadata; do not introduce a third typeface.
 
@@ -108,9 +108,9 @@ The desktop hero uses a 66px/750 name, 27px/650 role, 20px positioning line, and
 
 The README is a single vertical GitHub document with centered visual assets and contact actions. Long-form evidence remains native Markdown for scanning, selection, search, and theme compatibility.
 
-The `<picture>` elements switch at `(max-width: 1200px)`: viewports at or below 1200px receive the mobile SVGs; wider viewports receive the desktop SVGs. Desktop uses a 1200×420 horizontal hero and a 1200×230 horizontal five-stage loop. Mobile uses a 720×620 stacked hero and a 720×720 vertical loop. Both render at `width="100%"` within GitHub's content column.
+Four `<picture>` elements switch at `(max-width: 1200px)`: viewports at or below 1200px receive mobile SVGs; wider viewports receive desktop SVGs. The system includes the hero, product evidence board, tool constellation, and recognition strip. Every asset renders at `width="100%"` within GitHub's content column.
 
-Desktop hero composition is asymmetric: identity at left, evidence card at right, and a five-stop route across the lower third. Mobile stacks identity, one evidence card, and a simplified three-stop route. The loop preserves all five stages but changes from horizontal to vertical.
+Desktop hero composition is asymmetric: identity at left, evidence card at right, and a five-stop route across the lower third. The product board gives Kulkita the larger field and stacks Sentra/Fiona beside it; mobile converts those zones into a readable vertical sequence. The tool constellation moves from three horizontal lanes to a compact mobile matrix, while recognition changes from a horizontal to vertical timeline.
 
 ## Elevation & Depth
 
@@ -125,7 +125,9 @@ Large SVG canvases use gently rounded clipping: 24px on the desktop hero, 28px o
 - **Hero signal board:** responsive desktop/mobile SVG pair containing identity, availability, positioning, pilot evidence, and route visualization.
 - **Evidence card:** raised tonal panel inside the hero; desktop carries two evidence lines, while mobile prioritizes the 35% pilot result.
 - **Signal route:** five stages on desktop, three summary stages on mobile, with a single animated signal dot.
-- **Product operating loop:** static five-stage desktop/mobile SVG pair; horizontal on desktop and vertical on mobile.
+- **Product evidence board:** asymmetric desktop/mobile SVG pair that compresses three case studies into role, workflow, and outcome signals.
+- **Tool constellation:** twelve recognizable brand/tool marks grouped by Think, Build, and Ship + Measure.
+- **Recognition strip:** five selected awards drawn as a chronological signal line beneath the 30+ total.
 - **Contact actions:** externally rendered Shields.io badges for LinkedIn and email, plus a native-text contact close.
 - **Evidence content blocks:** native Markdown sections, lists, bold metrics, and blockquotes; project briefs consistently end with “What it proves.”
 - **GitHub activity:** externally rendered profile-details image linked to Richard's GitHub profile.
@@ -136,7 +138,7 @@ The profile depends on GitHub Markdown/HTML rendering, repository-hosted SVG ass
 
 ### Motion
 
-Only the hero signal dot moves. It travels once for 4 seconds, freezes at the end, and uses spline easing (`0.22 1 0.36 1`); it never loops. Under `prefers-reduced-motion: reduce`, the moving dot is hidden. The route, labels, and all core meaning remain visible, and the product-loop assets stay static.
+Motion is confined to two authored moments. The hero signal travels once for 4 seconds. In the tool constellation, the three logo groups settle into their Think/Build/Ship lanes once while one signal travels down the shared route for 4.5 seconds. Nothing loops. Under `prefers-reduced-motion: reduce`, rows remain in their complete static position and moving dots are hidden.
 
 ## Do's and Don'ts
 
