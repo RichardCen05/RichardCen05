@@ -31,10 +31,10 @@
       <path d="M70 286V370M282 286V370M494 286V370M706 286V370M918 286V370M1130 286V370"/>
     </g>
 
-    <text x="70" y="56" fill="#78CFA2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="2.2">RICHARD / PRODUCT SYSTEM / 2026</text>
+    <text x="70" y="56" fill="#78CFA2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" letter-spacing="2.2">RICHARD / PRODUCT SYSTEM / 2026</text>
     <rect x="934" y="38" width="196" height="34" rx="17" fill="#0A2A1E" stroke="#236447"/>
     <circle cx="958" cy="55" r="5" fill="#35D07F"/>
-    <text x="974" y="60" fill="#CFFBE3" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13" font-weight="600">OPEN TO OPPORTUNITIES</text>
+    <text x="974" y="60" fill="#CFFBE3" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="16" font-weight="600">OPEN TO OPPORTUNITIES</text>
 
     <text x="70" y="145" fill="#F3FFF8" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="66" font-weight="750" letter-spacing="-2.4">Richard Cen</text>
     <text x="72" y="190" fill="#35D07F" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="27" font-weight="650" letter-spacing="0.5">AI PRODUCT MANAGER</text>
@@ -43,12 +43,12 @@
 
     <g filter="url(#depth)">
       <rect x="780" y="105" width="350" height="152" rx="16" fill="#0A2A1E" stroke="#1F5A41"/>
-      <text x="806" y="134" fill="#78CFA2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.5">PRODUCT EVIDENCE</text>
+      <text x="806" y="134" fill="#78CFA2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" letter-spacing="1.5">PRODUCT EVIDENCE</text>
       <text x="806" y="174" fill="#F3FFF8" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="31" font-weight="720">35%</text>
-      <text x="886" y="171" fill="#B4D8C5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13">pilot-reported waste reduction</text>
-      <text x="886" y="189" fill="#78A991" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12">UB Coffee · first 2 weeks</text>
+      <text x="886" y="171" fill="#B4D8C5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17">pilot-reported waste reduction</text>
+      <text x="886" y="192" fill="#78A991" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="15">UB Coffee · first 2 weeks</text>
       <path d="M806 207H1104" stroke="#174C37"/>
-      <text x="806" y="238" fill="#A7F3D0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">IDR 26M NON-DILUTIVE  ·  30+ AWARDS</text>
+      <text x="806" y="238" fill="#A7F3D0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">IDR 26M NON-DILUTIVE  ·  30+ AWARDS</text>
     </g>
 
     <path id="signalPath" d="M90 329H1110" fill="none" stroke="url(#route)" stroke-width="3" stroke-linecap="round"/>
@@ -58,13 +58,13 @@
     <circle id="signal-dot" r="7" fill="#F3FFF8" stroke="#35D07F" stroke-width="4">
       <animateMotion dur="4s" repeatCount="1" fill="freeze" path="M90 329H1110" keyTimes="0;1" calcMode="spline" keySplines="0.22 1 0.36 1"/>
     </circle>
-    <g fill="#9CCBB4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.2" text-anchor="middle">
+    <g fill="#9CCBB4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" letter-spacing="1.2" text-anchor="middle">
       <text x="90" y="358">DISCOVER</text>
       <text x="345" y="358">FRAME</text>
       <text x="600" y="358">BUILD</text>
       <text x="855" y="358">EVALUATE</text>
       <text x="1110" y="358">PILOT</text>
     </g>
-    <text x="70" y="400" fill="#78A991" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">BASED IN INDONESIA  /  OPEN TO INDONESIA · SINGAPORE · GLOBAL REMOTE</text>
+    <text x="70" y="400" fill="#78A991" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">BASED IN INDONESIA  /  OPEN TO INDONESIA · SINGAPORE · GLOBAL REMOTE</text>
   </g>
 </svg>
