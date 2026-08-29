@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="620" viewBox="0 0 720 620" role="img" aria-labelledby="title desc">
+  <title id="title">Richard Cen — AI Product Manager</title>
+  <desc id="desc">A mobile product signal board presenting Richard's AI product positioning, pilot evidence, and availability.</desc>
+  <defs>
+    <style>
+      @media (prefers-reduced-motion: reduce) { #mobile-signal { display: none; } }
+    </style>
+    <linearGradient id="mobile-route" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2B805C"/>
+      <stop offset="0.55" stop-color="#35D07F"/>
+      <stop offset="1" stop-color="#A7F3D0"/>
+    </linearGradient>
+    <clipPath id="mobile-round"><rect width="720" height="620" rx="28"/></clipPath>
+  </defs>
+  <g clip-path="url(#mobile-round)">
+    <rect width="720" height="620" fill="#071F17"/>
+    <path d="M0 0H720V112C538 151 330 52 0 127Z" fill="#0A2A1E"/>
+    <circle cx="674" cy="-10" r="130" fill="#0E3B2A"/>
+    <circle cx="674" cy="-10" r="88" fill="none" stroke="#2B805C" stroke-width="2"/>
+
+    <text x="44" y="58" fill="#78CFA2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" letter-spacing="2">AI PRODUCT / OPEN TO WORK</text>
+    <text x="44" y="158" fill="#F3FFF8" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="68" font-weight="750" letter-spacing="-2">Richard Cen</text>
+    <text x="46" y="207" fill="#35D07F" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="38" font-weight="680">AI PRODUCT MANAGER</text>
+    <text x="46" y="253" fill="#C9E8D8" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="30">From complex workflow to measurable AI pilot.</text>
+
+    <g transform="translate(44 298)">
+      <rect width="632" height="150" rx="20" fill="#0A2A1E" stroke="#2B805C" stroke-width="2"/>
+      <text x="28" y="48" fill="#78CFA2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" letter-spacing="1.5">PILOT EVIDENCE</text>
+      <text x="28" y="106" fill="#F3FFF8" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="52" font-weight="750">35%</text>
+      <text x="142" y="88" fill="#C9E8D8" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="27">pilot-reported waste reduction</text>
+      <text x="142" y="121" fill="#78A991" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24">UB Coffee · first two weeks</text>
+    </g>
+
+    <path d="M74 511H646" fill="none" stroke="url(#mobile-route)" stroke-width="5" stroke-linecap="round"/>
+    <g fill="#071F17" stroke="#35D07F" stroke-width="4">
+      <circle cx="74" cy="511" r="11"/><circle cx="360" cy="511" r="11"/><circle cx="646" cy="511" r="11"/>
+    </g>
+    <circle id="mobile-signal" r="9" fill="#F3FFF8" stroke="#35D07F" stroke-width="5">
+      <animateMotion dur="4s" repeatCount="1" fill="freeze" path="M74 511H646" keyTimes="0;1" calcMode="spline" keySplines="0.22 1 0.36 1"/>
+    </circle>
+    <g fill="#B4D8C5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="25" letter-spacing="1" text-anchor="middle">
+      <text x="74" y="555">DISCOVER</text><text x="360" y="555">BUILD</text><text x="646" y="555">PILOT</text>
+    </g>
+    <text x="44" y="596" fill="#78A991" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22">INDONESIA · SINGAPORE · GLOBAL REMOTE</text>
+  </g>
+</svg>
