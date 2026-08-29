@@ -9,7 +9,7 @@ FINISH: unreviewed and undocumented is unfinished; this build ends with the fini
 
 <p align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg" />
+    <source media="(max-width: 1000px)" srcset="./assets/hero-mobile.svg" />
     <img src="./assets/hero.svg" width="100%" alt="Richard Cen — AI Product Manager, open to opportunities across Indonesia, Singapore, and global remote teams." />
   </picture>
 </p>
@@ -25,8 +25,8 @@ I currently build as an **iOS Developer in the Apple Developer Academy program**
 
 ## Product evidence
 
-- **35% less food waste and related loss** — reported during Kulkita's first two pilot weeks at UB Coffee.
-- **IDR 26 million in non-dilutive funding** — secured for Kulkita through competition-backed support.
+- **35% less food waste and related loss** — reported by pilot users during Kulkita's first two weeks at UB Coffee.
+- **IDR 26 million in non-dilutive funding** — secured for Kulkita.
 - **30+ competition awards and recognitions** — five selected national highlights are listed below.
 - **60% faster internal information retrieval** — measured in Pingtar's internal AI pilot evaluation.
 
@@ -38,7 +38,7 @@ I currently build as an **iOS Developer in the Apple Developer Academy program**
 
 **My product work.** I founded Kulkita and led four engineers from field discovery to a market-ready MVP. I owned the roadmap, PRD, AI system direction, product flows, pilot execution, stakeholder management, and go-to-market work. The system combines FIFO operations with predictive freshness tracking so kitchen teams can act before spoilage becomes loss.
 
-**Evidence.** UB Coffee reported a **35% reduction in food waste and related financial loss during the first two weeks of its Kulkita pilot**. The product also secured **IDR 26 million in non-dilutive funding**.
+**Evidence.** Pilot users at UB Coffee reported a **35% reduction in food waste and related financial loss during Kulkita's first two weeks**. The product also secured **IDR 26 million in non-dilutive funding**.
 
 > **What it proves:** 0→1 product leadership, AI-enabled operations, cross-functional execution, and pilot ownership.
 
@@ -68,7 +68,7 @@ I currently build as an **iOS Developer in the Apple Developer Academy program**
 Building engineering depth through end-to-end iOS product development while maintaining an AI Product Manager focus.
 
 **Founder & CEO · Kulkita — Sep 2025–Jul 2026 · Self-employed**  
-Owned product vision, team leadership, AI system direction, pilot, go-to-market, and operations. UB Coffee's pilot reported 35% less food waste and related loss; Kulkita secured IDR 26M in non-dilutive funding.
+Owned product vision, team leadership, AI system direction, pilot, go-to-market, and operations. Pilot users at UB Coffee reported 35% less food waste and related loss; Kulkita secured IDR 26M in non-dilutive funding.
 
 **Product Manager · PT Ekanusa Solaris Digital — Aug 2025–Jul 2026 · Part-time, remote**  
 Improved Key Account workflows, dashboards, automation, RCA, and engineer marketplace systems—contributing to 40% fewer missed client responses and halving project handover time.
@@ -80,7 +80,7 @@ Benchmarked AI tools and shipped internal pilots for knowledge retrieval and ops
 
 <p align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="./assets/product-loop-mobile.svg" />
+    <source media="(max-width: 1000px)" srcset="./assets/product-loop-mobile.svg" />
     <img src="./assets/product-loop.svg" width="100%" alt="Richard's AI product operating loop: user signal, product decision, system brief, pilot evidence, and learning." />
   </picture>
 </p>
