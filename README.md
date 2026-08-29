@@ -9,7 +9,7 @@ FINISH: unreviewed and undocumented is unfinished; this build ends with the fini
 
 <p align="center">
   <picture>
-    <source media="(max-width: 1000px)" srcset="./assets/hero-mobile.svg" />
+    <source media="(max-width: 1200px)" srcset="./assets/hero-mobile.svg" />
     <img src="./assets/hero.svg" width="100%" alt="Richard Cen — AI Product Manager, open to opportunities across Indonesia, Singapore, and global remote teams." />
   </picture>
 </p>
@@ -80,7 +80,7 @@ Benchmarked AI tools and shipped internal pilots for knowledge retrieval and ops
 
 <p align="center">
   <picture>
-    <source media="(max-width: 1000px)" srcset="./assets/product-loop-mobile.svg" />
+    <source media="(max-width: 1200px)" srcset="./assets/product-loop-mobile.svg" />
     <img src="./assets/product-loop.svg" width="100%" alt="Richard's AI product operating loop: user signal, product decision, system brief, pilot evidence, and learning." />
   </picture>
 </p>
